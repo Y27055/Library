@@ -7,3 +7,5 @@ D
 library/build.gradle,b\c\bc1e6337a6cee4d549ebc79c089f4196728c3aeb
 c
 3library/src/main/java/com/library/library/test.java,f\6\f69a1e6db8c4154eab08e96b1b53a7f4e285e77e
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
