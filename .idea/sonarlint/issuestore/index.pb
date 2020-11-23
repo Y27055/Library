@@ -9,3 +9,7 @@ c
 3library/src/main/java/com/library/library/test.java,f\6\f69a1e6db8c4154eab08e96b1b53a7f4e285e77e
 ?
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
